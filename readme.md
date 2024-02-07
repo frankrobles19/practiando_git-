@@ -7,10 +7,10 @@ Para comenzar a trabajar en un nuevo entorno, es importante establecer algunas c
 
 
 # Asignar el nombre de usuario
-git config --global user.name "Francisco Pérez"
+git config --global user.name "Frank robles"
 
 # Asignar el correo electrónico
-git config --global user.email "francisco.perez@example.com"
+git config --global user.email "136etc..+frankrobles19@users.noreply.github.com."
 
 # Establecer el editor predeterminado como Visual Studio Code
 git config --global core.editor "code --wait"
